@@ -167,4 +167,4 @@ async def roulette(ctx):
   await ctx.reply(embed=embed)
 
 
-bot.run("BOT TOKEN HERE")
+MTQ4NDYwNDI5NTgxODExNzI0Mw.G_BVti.st0klcd36-ygk2HCtAbEGhWCZliU7LRnutZxxI
